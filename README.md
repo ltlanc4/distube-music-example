@@ -1,5 +1,7 @@
 distube.js play function example with reconlx handler for discord.js version 14
 
+Change bot Token in config.json. Before run node index.js
+
 `npm install` - install all required dependancies
 
 `node index.js` - start the project
