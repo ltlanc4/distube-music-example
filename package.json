@@ -17,7 +17,7 @@
         "@distube/ytdl-core": "^4.11.8",
         "discord.js": "^14.9.0",
         "distube": "^4.0.4",
-        "ffmpeg-static": "^4.4.1",
+        "ffmpeg-static": "^5.1.0",
         "glob": "^7.1.7",
         "libsodium-wrappers": "^0.7.11",
         "mongoose": "^6.0.2"
